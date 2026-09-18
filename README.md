@@ -8,18 +8,18 @@ O aplicativo permite cadastrar pessoas, consultar automaticamente os dados de en
 
 ## ✨ Funcionalidades
 
-* 🌸 Splash Screen com animação de entrada e saída.
-* 🏠 Tela inicial com cabeçalho e lista de pessoas cadastradas.
-* ☰ Menu lateral de navegação.
-* ➕ Botão para realizar um novo cadastro.
-* 👤 Cadastro de nome, CEP, número e complemento.
-* 📍 Consulta automática do CEP através da API **ViaCEP**.
-* 🏡 Preenchimento automático de rua, bairro, cidade e estado.
-* 💾 Salvamento dos cadastros localmente no celular.
-* 🔄 Acesso à Splash Screen através do menu.
-* 🚪 Opção para sair do aplicativo.
-* 🎨 Interface com tema claro, cores delicadas e fonte do Google Fonts.
-* 📱 Ícone personalizado para o aplicativo.
+* Splash Screen com animação de entrada e saída.
+* Tela inicial com cabeçalho e lista de pessoas cadastradas.
+* Menu lateral de navegação.
+* Botão para realizar um novo cadastro.
+* Cadastro de nome, CEP, número e complemento.
+* Consulta automática do CEP através da API **ViaCEP**.
+* Preenchimento automático de rua, bairro, cidade e estado.
+* Salvamento dos cadastros localmente no celular.
+* Acesso à Splash Screen através do menu.
+* Opção para sair do aplicativo.
+* Interface com tema claro, cores delicadas e fonte do Google Fonts.
+* Ícone personalizado para o aplicativo.
 
 ---
 
@@ -80,37 +80,21 @@ A versão **Release** do aplicativo está disponível para download:
 
 ### [⬇️ Baixar o APK](./apk/app-release.apk)
 
-**Arquivo:** `app-release.apk`
-
-O APK pode ser instalado em um dispositivo Android ou executado em um emulador.
-
 ---
 
 ## 🖼️ Imagens do Sistema
 
 Abaixo estão algumas telas do aplicativo:
 
-### 🌸 Splash Screen
+<p align="center">
+  <img src="assets/1.png" width="180">
+  <img src="assets/2.png" width="180">
+  <img src="assets/3.png" width="180">
+  <img src="assets/4.png" width="180">
+  <img src="assets/5.png" width="180">
+</p>
 
-![Splash Screen](assets/1.png)
 
-### 🏠 Tela Inicial
-
-![Tela Inicial](assets/2.png)
-
-### ☰ Menu Lateral
-
-![Menu Lateral](assets/3.png)
-
-### 👤 Cadastro de Pessoa
-
-![Cadastro de Pessoa](assets/4.png)
-
-### 📍 Consulta de CEP
-
-![Consulta de CEP](assets/5.png)
-
----
 
 ## 📂 Estrutura do Projeto
 
@@ -138,6 +122,5 @@ assets/
 
 ---
 
-## 👩‍💻 Desenvolvimento
+## 🩷 Desenvolvido por: Isabelle Borges
 
-Projeto desenvolvido como parte das atividades do curso de **Desenvolvimento de Sistemas – SENAI/SESI**.
